@@ -128,7 +128,7 @@ header{
     width: 25%;
     text-align: justify;
     line-height:1.25em;
-    transition: all .5s ease-in-out;
+    transition: all .3s ease-in-out;
     color: white;
 }
 #mode-card:hover{
